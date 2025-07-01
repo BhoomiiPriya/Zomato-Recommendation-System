@@ -1,5 +1,5 @@
 # Zomato Restaurant Recommendation System
-This project is a Content-Based Recommendation System developed using restaurant dataset from `[Kaggle]([https://www.google.com](https://github.com/chiragsamal/Zomato/tree/master?tab=readme-ov-file)`. It uses TF-IDF vectorization and Cosine Similarity to match user preferences with restaurant profiles, providing personalized restaurant suggestions based on metadata and user reviews.
+This project is a Content-Based Recommendation System developed using restaurant dataset from [Kaggle](https://github.com/chiragsamal/Zomato/tree/master?tab=readme-ov-file). It uses TF-IDF vectorization and Cosine Similarity to match user preferences with restaurant profiles, providing personalized restaurant suggestions based on metadata and user reviews.
 
  # Features
 + Content-Based Filtering using TF-IDF and Cosine Similarity
